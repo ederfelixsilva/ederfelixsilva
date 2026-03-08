@@ -35,7 +35,7 @@
 
 ### 🚀 DevDashboard
 
-Dashboard web inspirado no estilo iOS com:
+Dashboard web inspirado no estilo iOS com widgets de:
 
 - clima
 - moedas
@@ -48,9 +48,25 @@ https://github.com/ederfelixsilva/dev-dashboard
 
 ---
 
+### ✅ TaskFlow
+
+Sistema de gerenciamento de tarefas desenvolvido para praticar lógica de programação e CRUD.
+
+Funcionalidades:
+
+- criar tarefas
+- concluir tarefas
+- excluir tarefas
+- filtros de tarefas
+
+🔗 Repositório  
+https://github.com/ederfelixsilva/taskflow
+
+---
+
 ### 🍔 BurguerLab
 
-Landing page moderna para hamburgueria desenvolvida com HTML, CSS e JavaScript.
+Landing page moderna desenvolvida com HTML, CSS e JavaScript.
 
 🔗 Repositório  
 https://github.com/ederfelixsilva/burguerlab-landing
@@ -84,7 +100,7 @@ https://github.com/ederfelixsilva/burguerlab-landing
 gunder1eder@gmail.com
 
 💼 LinkedIn  
-www.linkedin.com/in/eder-f%C3%A9lix
+www.linkedin.com/in/eder-félix
 
 ---
 
