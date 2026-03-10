@@ -5,8 +5,6 @@
 <br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 <br>
-☁️ Estudando Cloud Computing (Google Cloud Skills Boost)  
-<br>
 📍 São Paulo - Brasil
 </p>
 
@@ -72,6 +70,13 @@ Landing page moderna desenvolvida com HTML, CSS e JavaScript.
 https://github.com/ederfelixsilva/burguerlab-landing
 
 ---
+
+### 📊 DevMetrics Dashboard
+
+Dashboard com métricas e ferramentas para desenvolvedores.
+
+🔗 Repositório  
+https://github.com/ederfelixsilva/devmetrics-dashboard
 
 # 📊 Estatísticas do GitHub
 
