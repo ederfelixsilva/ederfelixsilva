@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eder-félix)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ederfelixsilva)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ederfelix.dev@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-F0F6FC?style=for-the-badge&logo=githubpages&logoColor=0D1117)](https://ederfelixsilva.github.io/frame/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ederfelixsilva&color=58A6FF&style=for-the-badge&label=VISITAS)
