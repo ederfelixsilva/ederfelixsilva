@@ -130,7 +130,7 @@ Acredito que consistência supera talento: cada commit é um passo a mais na dir
 ## Timeline
 
 ```
-2025  ──▶  Início do curso de ADS
+2026 ──▶  Início do curso de ADS
            └──▶  HTML · CSS · JavaScript
                  └──▶  Git · GitHub
                        └──▶  Python
@@ -138,7 +138,7 @@ Acredito que consistência supera talento: cada commit é um passo a mais na dir
                                    └──▶  Google Cloud Platform
                                          └──▶  Projetos de portfólio
 
-2026  ──▶  Certificações · Engenharia de Dados · AWS
+2026  ──▶ 
            └──▶  🎯 Primeira oportunidade em TI
 ```
 
@@ -153,7 +153,8 @@ Acredito que consistência supera talento: cada commit é um passo a mais na dir
 | ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Associate Cloud Engineer | `[Em andamento]` |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | AWS Certified Cloud Practitioner | `[Planejado]` |
 | ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Professional Data Engineer | `[Planejado]` |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `[PLACEHOLDER]` Certificação Python | `[Planejado]` |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `[PLACEHOLDER]` Certificação Python | `[Em andamento]` |
+| ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | `[PLACEHOLDER]` Certificação SQL | `Em andamento` |
 
 </div>
 
