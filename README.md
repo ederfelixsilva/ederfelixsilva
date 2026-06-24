@@ -154,7 +154,7 @@ Acredito que consistência supera talento: cada commit é um passo a mais na dir
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | AWS Certified Cloud Practitioner | `[Planejado]` |
 | ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Professional Data Engineer | `[Planejado]` |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `[PLACEHOLDER]` Certificação Python | `[Em andamento]` |
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | `[PLACEHOLDER]` Certificação SQL | `Em andamento` |
+| ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | `[PLACEHOLDER]` Certificação SQL | `[Em andamento]` |
 
 </div>
 
