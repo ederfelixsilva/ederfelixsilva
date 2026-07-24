@@ -162,11 +162,6 @@ Projeto complementar de portfólio pessoal, utilizado como cartão de visitas di
 ## 📈 Números que contam minha história
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ederfelixsilva&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ederfelixsilva&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ederfelixsilva&theme=tokyo-night" width="97%" />
 </p>
 
